@@ -13,4 +13,70 @@ Runs the SASS compiler creating the stylesheet & packs the javascript using Webp
 
 Compiles & packs the files in production mode optimizing the files for production.
 
-<img src="https://raw.githubusercontent.com/mcbeav/readme.photos/refs/heads/main/hart.vaughn/desktop.png" Alt="Desktop Site">
+<center>
+
+<div width="600px" align="center">
+
+| <img src="https://raw.githubusercontent.com/mcbeav/readme.photos/refs/heads/main/hart.vaughn/desktop.png" width="600px" alt="Desktop"> | 
+|:--:| 
+| *Desktop* |
+
+</div>
+
+</center>
+
+<br><br>
+
+<center>
+
+<div width="600px" align="center">
+
+| <img src="https://raw.githubusercontent.com/mcbeav/readme.photos/refs/heads/main/hart.vaughn/ipad-portrait.png" width="600px" alt="iPad Portriat"> | 
+|:--:| 
+| *iPad Portrait* |
+
+</div>
+
+</center>
+
+<br><br>
+
+<center>
+
+<div width="600px" align="center">
+
+| <img src="https://raw.githubusercontent.com/mcbeav/readme.photos/refs/heads/main/hart.vaughn/ipad-landscape.png" width="600px" alt="iPad Landscape"> | 
+|:--:| 
+| *iPad Landscape* |
+
+</div>
+
+</center>
+
+<br><br>
+
+<center>
+
+<div width="600px" align="center">
+
+| <img src="https://raw.githubusercontent.com/mcbeav/readme.photos/refs/heads/main/hart.vaughn/mobile-portriat.png" width="600px" alt="Mobile Portriat"> | 
+|:--:| 
+| *Mobile Portriat* |
+
+</div>
+
+</center>
+
+<br><br>
+
+<center>
+
+<div width="600px" align="center">
+
+| <img src="https://raw.githubusercontent.com/mcbeav/readme.photos/refs/heads/main/hart.vaughn/mobile-landscape.png" width="600px" alt="Mobile Landscape"> | 
+|:--:| 
+| *Mobile Landscape* |
+
+</div>
+
+</center>
