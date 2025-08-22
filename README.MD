@@ -31,7 +31,7 @@ Compiles & packs the files in production mode optimizing the files for productio
 
 <div width="600px" align="center">
 
-| <img src="https://raw.githubusercontent.com/mcbeav/readme.photos/refs/heads/main/hart.vaughn/ipad-portrait.jpg" width="600px" alt="iPad Portriat"> | 
+| <img src="https://raw.githubusercontent.com/mcbeav/readme.photos/refs/heads/main/hart.vaughn/ipad-portrait.jpg" width="600px" alt="iPad Portrait"> | 
 |:--:| 
 | *iPad Portrait* |
 
@@ -59,9 +59,9 @@ Compiles & packs the files in production mode optimizing the files for productio
 
 <div width="600px" align="center">
 
-| <img src="https://raw.githubusercontent.com/mcbeav/readme.photos/refs/heads/main/hart.vaughn/mobile-portriat.jpg" width="600px" alt="Mobile Portriat"> | 
+| <img src="https://raw.githubusercontent.com/mcbeav/readme.photos/refs/heads/main/hart.vaughn/mobile-Portrait.jpg" width="600px" alt="Mobile Portrait"> | 
 |:--:| 
-| *Mobile Portriat* |
+| *Mobile Portrait* |
 
 </div>
 
