@@ -31,7 +31,7 @@ Compiles & packs the files in production mode optimizing the files for productio
 
 <div width="600px" align="center">
 
-| <img src="https://raw.githubusercontent.com/mcbeav/readme.photos/refs/heads/main/hart.vaughn/ipad-portrait.png" width="600px" alt="iPad Portriat"> | 
+| <img src="https://raw.githubusercontent.com/mcbeav/readme.photos/refs/heads/main/hart.vaughn/ipad-portrait.jpg" width="600px" alt="iPad Portriat"> | 
 |:--:| 
 | *iPad Portrait* |
 
@@ -45,7 +45,7 @@ Compiles & packs the files in production mode optimizing the files for productio
 
 <div width="600px" align="center">
 
-| <img src="https://raw.githubusercontent.com/mcbeav/readme.photos/refs/heads/main/hart.vaughn/ipad-landscape.png" width="600px" alt="iPad Landscape"> | 
+| <img src="https://raw.githubusercontent.com/mcbeav/readme.photos/refs/heads/main/hart.vaughn/ipad-landscape.jpg" width="600px" alt="iPad Landscape"> | 
 |:--:| 
 | *iPad Landscape* |
 
@@ -59,7 +59,7 @@ Compiles & packs the files in production mode optimizing the files for productio
 
 <div width="600px" align="center">
 
-| <img src="https://raw.githubusercontent.com/mcbeav/readme.photos/refs/heads/main/hart.vaughn/mobile-portriat.png" width="600px" alt="Mobile Portriat"> | 
+| <img src="https://raw.githubusercontent.com/mcbeav/readme.photos/refs/heads/main/hart.vaughn/mobile-portriat.jpg" width="600px" alt="Mobile Portriat"> | 
 |:--:| 
 | *Mobile Portriat* |
 
@@ -73,7 +73,7 @@ Compiles & packs the files in production mode optimizing the files for productio
 
 <div width="600px" align="center">
 
-| <img src="https://raw.githubusercontent.com/mcbeav/readme.photos/refs/heads/main/hart.vaughn/mobile-landscape.png" width="600px" alt="Mobile Landscape"> | 
+| <img src="https://raw.githubusercontent.com/mcbeav/readme.photos/refs/heads/main/hart.vaughn/mobile-landscape.jpg" width="600px" alt="Mobile Landscape"> | 
 |:--:| 
 | *Mobile Landscape* |
 
